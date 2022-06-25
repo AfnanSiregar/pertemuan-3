@@ -1,0 +1,19 @@
+{
+  "name": "pertemuan-3",
+  "version": "1.0.0",
+  "description": "ini projek di pertemuan 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "pub"
+  ],
+  "author": "Muzayyin Al Afnan Siregar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}
